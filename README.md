@@ -6,6 +6,7 @@ I build end-to-end machine learning systems across **deep learning, computer vis
 
 - 🔭 Open to **Graduate AI/ML Engineer** & **Data Scientist** roles (UK)
 - 🌐 CV & portfolio → **[barisgovercin.github.io](https://barisgovercin.github.io)**
+- 🔴 Live demo → **[Facial emotion recognition](https://huggingface.co/spaces/barisgovercin/facial-emotion-vit)** (upload a face, get the emotion)
 - 💼 LinkedIn → [baris-govercin](https://www.linkedin.com/in/baris-govercin-b58141271)
 - 📫 govercinmuhammedbaris@gmail.com
 
@@ -15,7 +16,7 @@ I build end-to-end machine learning systems across **deep learning, computer vis
 
 | Project | What it does | Stack |
 |---------|--------------|-------|
-| [**Facial Emotion Recognition (ViT)**](https://github.com/barisgovercin/ce903-vit-emotion-recognition) | Fine-tuned ViT-Base/16 on RAVDESS — **94.9%** video-level accuracy | PyTorch |
+| [**Facial Emotion Recognition (ViT)**](https://github.com/barisgovercin/ce903-vit-emotion-recognition) | Fine-tuned ViT-Base/16 on RAVDESS — **94.9%** video-level accuracy · [🔴 live demo](https://huggingface.co/spaces/barisgovercin/facial-emotion-vit) | PyTorch |
 | [**Offline Agentic Data Scientist**](https://github.com/barisgovercin/ce888-data-science-decision-making) | Autonomous sense–plan–act–reflect agent for unseen datasets · 77 tests, 86% cov. | scikit-learn |
 | [**Sentiment: LR vs. LLM Prompting**](https://github.com/barisgovercin/ce807-text-analytics) | Few-shot Flan-T5-Large beat a tuned TF-IDF+LR baseline by ~10 F1 points | Flan-T5, NLP |
 | [**Lunar Lander NN Controller**](https://github.com/barisgovercin/ce889-neural-networks-deep-learning) | Feed-forward MLP **built from scratch** (no ML libraries) + backprop | Python |
