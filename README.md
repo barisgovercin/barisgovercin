@@ -33,6 +33,7 @@ I build end-to-end machine learning systems across **deep learning, computer vis
 | [**Stock Return Prediction**](https://github.com/barisgovercin/cf969-machine-learning-for-finance) | Predicting next-day returns with 4 ML models vs. baselines | scikit-learn, TF |
 | [**Chat with your PDF (RAG)**](https://github.com/barisgovercin/rag-pdf-chat) | Retrieval-augmented QA over PDFs · [📄 live demo](https://huggingface.co/spaces/barisgovercin/chat-with-pdf) | RAG, Flan-T5 |
 | [**Emotion Recognition API**](https://github.com/barisgovercin/emotion-recognition-api) | FastAPI + Docker service serving the ViT model · [⚙️ live API](https://barisgovercin-emotion-api.hf.space/docs) | FastAPI, Docker |
+| [**Job Hunt Assistant**](https://github.com/barisgovercin/job-hunt-assistant) | Daily AI/ML job digest (Adzuna + GitHub Actions) + LLM-drafted tailored applications | Python, Actions |
 
 ---
 
